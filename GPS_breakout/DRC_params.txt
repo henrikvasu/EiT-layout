@@ -1,0 +1,4 @@
+0.4 [mm] track width
+0.2 [mm] clearance
+0.9 via drill
+2 via diameter
