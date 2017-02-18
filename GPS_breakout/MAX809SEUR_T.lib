@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MAX809SEUR+T
+#
+DEF MAX809SEUR+T U 0 40 Y Y 1 L N
+F0 "U" -186 359 50 H V L CNN
+F1 "MAX809SEUR+T" -247 -555 50 H V L CNN
+F2 "SOT95P228X119-3N" 0 0 50 H I L CNN
+F3 "SOT-23-3 Maxim Integrated" 0 0 50 H I L CNN "Package"
+F4 "Maxim Integrated" 0 0 50 H I L CNN "MF"
+F5 "MAX809SEUR+T" 0 0 50 H I L CNN "MP"
+F6 "1.97 USD" 0 0 50 H I L CNN "Price"
+F7 "Processor Supervisor 2.93V 2.5V/3V/3.3V/5V 3-Pin SOT-23 T/R" 0 0 50 H I L CNN "Description"
+F8 "Good" 0 0 50 H I L CNN "Availability"
+DRAW
+P 2 0 0 16 -500 200 -500 -400 N
+P 2 0 0 16 -500 -400 500 -400 N
+P 2 0 0 16 500 -400 500 200 N
+P 2 0 0 16 500 200 -500 200 N
+X VCC 3 -800 0 300 R 40 40 0 0 I 
+X GND 1 -800 -200 300 R 40 40 0 0 P 
+X ~RESET 2 800 -200 300 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
