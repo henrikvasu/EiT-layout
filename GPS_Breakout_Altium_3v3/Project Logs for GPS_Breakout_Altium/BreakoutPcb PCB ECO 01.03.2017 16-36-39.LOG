@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=J1-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=J1-3
+Removed Pin From Net: NetName=NetJ1_4 Pin=J1-4
+Removed Pin From Net: NetName=NetJ1_5 Pin=J1-5
+Removed Pin From Net: NetName=NetJ1_6 Pin=J1-6
+Removed Member From Class: ClassName=BreakoutPcb Member=J1
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0805(2012)100_N
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R2 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R3 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R4 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R5 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R6 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R7 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R8 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R9 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R10 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R11 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R12 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R13 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R14 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R15 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R16 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetQ1_4
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetQ2_4
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=NetQ3_4
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=NetQ3_1
