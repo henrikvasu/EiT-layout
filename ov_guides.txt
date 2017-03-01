@@ -1,0 +1,11 @@
+Omega design rules
+----------------------------------------
+Design -> Rules -> Right-click -> Import
+Ctrl+A
+C:\OVLib\Altium\Templates\OV-Ets.RUL
+
+Grond plane (bottom layer)
+----------------------------------------
+Place -> Polygon Pour...
+Connection to Net = GND
+Layer = Bottom layer
