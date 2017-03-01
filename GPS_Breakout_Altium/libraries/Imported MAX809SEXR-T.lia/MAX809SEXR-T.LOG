@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : MAX809SEXR-T.LibPkg
+
+Section : C:\Users\medlem\Downloads\MAX809SEXR-T.lia
+    Section : PCB Library - MAX809SEXR-T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MAX809SEXR-T On Line 95
+            Warning - 1 : Skipping Token attachedSymbol On Line 149
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - MAX809SEXR-T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 60
+            Warning - 1 : Skipping Token layerContents On Line 65
+            Warning - 1 : Skipping Token layerContents On Line 73
+        EndSection
+
+        Section : Generating SCH Library - MAX809SEXR-T.SchLib
+        EndSection
+    EndSection
+EndSection
