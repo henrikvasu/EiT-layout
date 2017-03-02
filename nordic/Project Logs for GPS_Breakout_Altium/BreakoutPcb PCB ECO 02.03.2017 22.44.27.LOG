@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3V3 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Member From Class: ClassName=BreakoutPcb Member=J1
+Removed Member From Class: ClassName=BreakoutPcb Member=J2
+Added Component: Designator=J?(HDRV8W64P254_1X8_2032X254X900B)
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=U1-4
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=U1-16
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=U1-19
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=U1-21
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Pin To Net: NetName=NetJ?_7 Pin=U1-22
+Added Net: Name=NetJ?_7
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Pin To Net: NetName=NetJ?_8 Pin=U1-1
+Added Pin To Net: NetName=NetJ?_8 Pin=U2-2
+Added Net: Name=NetJ?_8
+Added Member To Class: ClassName=BreakoutPcb Member=Component J? Header1x8
+Added Room: Name=BreakoutPcb
