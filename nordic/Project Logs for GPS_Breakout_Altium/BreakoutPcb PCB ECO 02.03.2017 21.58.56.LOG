@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=U1-4
+Removed Pin From Net: NetName=NetJ1_6 Pin=U1-16
+Added Component: Designator=J2(HDRV2W64P254_1X2_508X254X900B)
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ1_6 Pin=U1-4
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-16
+Added Member To Class: ClassName=BreakoutPcb Member=Component J2 Header 1x2
+Added Room: Name=BreakoutPcb
