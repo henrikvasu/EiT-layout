@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name A2235-H)(type Legacy)(uri "$(KIPRJMOD)\\A2235-H.mod")(options "")(descr ""))
-  (lib (name MAX809SEXR-T)(type Legacy)(uri "$(KIPRJMOD)\\MAX809SEXR-T.mod")(options "")(descr ""))
-)
